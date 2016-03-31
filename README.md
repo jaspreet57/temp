@@ -17,3 +17,6 @@ http://stackoverflow.com/questions/5160964/copying-contents-of-word-doc-and-past
 
 handling word doc: 
 http://www.techcognition.com/post/add-images-styles-tables-to-microsoft-office-word-in-c
+
+impt!
+http://stackoverflow.com/questions/10477977/what-reference-do-i-need-to-use-microsoft-office-interop-excel-in-net
