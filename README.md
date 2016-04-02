@@ -24,3 +24,4 @@ http://stackoverflow.com/questions/10477977/what-reference-do-i-need-to-use-micr
 
 whole word document tutorial:
 http://www.c-sharpcorner.com/UploadFile/amrish_deep/WordAutomation05102007223934PM/WordAutomation.aspx
+http://omegacoder.com/?p=555
