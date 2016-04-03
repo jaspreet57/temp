@@ -5,8 +5,6 @@ using System.Drawing.Imaging;
 using System.Windows.Forms;
 using Microsoft.Office.Interop.Word;
 
-
-
 namespace JCaptureApp {
     public class WinFormExample : Form {
 
@@ -26,15 +24,15 @@ namespace JCaptureApp {
         }
 
         private void DisplayGUI() {
-            this.Name = "JCapture Testing Tool";
-            this.Text = "JCapture Testing Tool";
+            this.Name = "JCapture-snip2doc";
+            this.Text = "JCapture-snip2doc";
 			this.TopMost = true;
             this.Size = new Size(300, 110);
             this.StartPosition = FormStartPosition.CenterScreen;
 
             fileSelector = new Button();
             fileSelector.Name = "fileSelector";
-            fileSelector.Text = "Open Word Document";
+            fileSelector.Text = "Open Document";
             fileSelector.Size = new Size(this.Width - 200, this.Height - 60);
             fileSelector.Location = new System.Drawing.Point(
                 (this.Width - fileSelector.Width) / 8 ,
@@ -57,7 +55,7 @@ namespace JCaptureApp {
         }
 		
 		private void AboutClick(object source, EventArgs e) {
-             MessageBox.Show("JCapture is a screen capturing solution found by Jaspreet Singh");
+             MessageBox.Show("JCapture v1.0 \n JCapture is multipurpose snipping tool. \n Its current version is capable of taking screenshot and saving in ms office document with just one click. \n This tool can be used in tasks like testing and documenting. \n Designed and Developed by Jaspreet Singh \"961923\"");
         }
 		
 		
@@ -78,7 +76,7 @@ namespace JCaptureApp {
 					doc.Activate();
 					ap.WindowState = Microsoft.Office.Interop.Word.WdWindowState.wdWindowStateMinimize;
 					
-					MessageBox.Show("You can start capturing screenshots now by clicking Capture button");
+					MessageBox.Show("Start taking screenshots by clicking on Capture button.");
 				
 					this.Controls.Remove(fileSelector);
 					fileSelector.Dispose();
