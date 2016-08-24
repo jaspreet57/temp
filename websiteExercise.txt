@@ -1,0 +1,30 @@
+# master file
+http://www.html5xcss3.com/2015/05/useful-html5-tutorials-creating-a-html5-css3-template.html
+
+http://designinstruct.com/web-design/code-a-vibrant-professional-web-design-with-html5css3/
+
+http://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch
+
+http://red-team-design.com/create-a-stylish-html5-template-from-scratch/
+
+# explore above server
+http://red-team-design.com/
+
+http://designwoop.com/2012/02/tutorial-create-a-minimal-single-page-portfolio-with-html5css3/
+
+http://www.lingulo.com/tutorials/creating-a-pure-and-elegant-personal-website-using-kube
+
+https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/
+
+http://medialoot.com/blog/how-to-code-a-homepage-template-with-html5-and-css3/
+
+https://www.script-tutorials.com/creating-new-html5css3-single-page-layout-mono/
+
+http://line25.com/tutorials/create-a-grid-based-web-design-in-html5-css3
+
+https://www.script-tutorials.com/creating-a-html5-css3-single-page-template/
+
+http://code.tutsplus.com/tutorials/html-5-and-css-3-the-techniques-youll-soon-be-using--net-5708
+
+
+
